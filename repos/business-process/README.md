@@ -1,4 +1,4 @@
-# Business Process Repository
+# Репозиторий бизнес процессов
 ```
 - apqc-pcf/
     - [{hierarchy-ID}-{PCF-ID}-{name}/ ...]
@@ -6,7 +6,7 @@
             - [(collaboration|choreography).[bpmn, png, svg] ...]
         - descriptive/
             - [(collaboration|choreography).[bpmn, png, svg] ...]
-        - ABOUT.md
+        - README.md
 - specs/
     - apqc-pcf/
         - banking/
@@ -14,6 +14,8 @@
                 - original.xlsx
                 - original.pdf
                 - extended.xlsx
-    - ABOUT.md
-- ABOUT.md
+    - README.md
+- README.md
 ```
+
+#docs
